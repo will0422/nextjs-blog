@@ -12,7 +12,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hi, my name is William Chin. I am a 17 year old high school student, and future business student. My hobbies include programming, video games, and playing volleyball. I enjoy eating as much as I enjoy sleeping.</p>
+        <p>Hi, my name is William Chin. I am a 17 year old high school student, and future business. My hobbies include programming, video games, and playing volleyball. I enjoy eating as much as I enjoy sleeping.</p>
         <p>My Volleyball <a href="https://www.hudl.com/profile/17403963/William-Chin/highlights">highlights</a>.</p>
         <p>Falcon Volleyball <a href="http://www.falconvolleyball.com/index.htm">website</a>.</p>
       </section>

@@ -15,9 +15,9 @@
 }
 
 .headingLg {
-font-size: 1.5rem;
-line-height: 1.4;
-margin: 1rem 0;
+    font-size: 1.5rem;
+    line-height: 1.4;
+    margin: 1rem 0;
 }
 
 .headingMd {
@@ -43,7 +43,7 @@ margin: 1rem 0;
     margin: 0;
 }
 
-.listItem{
+.listItem {
     margin: 0 0 1.25rem;
 }
 
