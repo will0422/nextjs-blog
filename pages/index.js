@@ -14,7 +14,9 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>Hi, my name is William Chin. I am a 17 year old high school student, and future business. My hobbies include programming, video games, and playing volleyball. I enjoy eating as much as I enjoy sleeping.</p>
         <p>My Volleyball <a href="https://www.hudl.com/profile/17403963/William-Chin/highlights">highlights</a>.</p>
+        <p>My <a href="/resume">resume</a>.</p>
         <p>Falcon Volleyball <a href="http://www.falconvolleyball.com/index.htm">website</a>.</p>
+        <p>Play a <a href="/game">game</a>.</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
