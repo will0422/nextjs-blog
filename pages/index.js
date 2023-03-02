@@ -16,7 +16,7 @@ export default function Home({ allPostsData }) {
         <p>My Volleyball <a href="https://www.hudl.com/profile/17403963/William-Chin/highlights">highlights</a>.</p>
         <p>My <a href="/resume">resume</a>.</p>
         <p>Falcon Volleyball <a href="http://www.falconvolleyball.com/index.htm">website</a>.</p>
-        <p>Play a <a href="/game">game</a>.</p>
+        <p>Look at cat pictures <a href="/cats">here</a>.</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
